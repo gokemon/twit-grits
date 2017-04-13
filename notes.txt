@@ -1,0 +1,11 @@
+
+
+http://scottksmith.com/blog/2014/10/05/twitatron-building-a-production-web-app-with-node/
+
+
+npm install -g nodemon
+instead of using node server.js to run your application, 
+you can use nodemon server.js. It will watch for any 
+changes in your application and automatically restart 
+your server for you.
+nodemon server.js

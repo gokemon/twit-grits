@@ -1,0 +1,26 @@
+{
+  "name": "twit-grits",
+  "version": "1.0.0",
+  "description": "Twitter tracker",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gokemon/twit-grits.git"
+  },
+  "keywords": [
+    "Node",
+    "API"
+  ],
+  "author": "Michael Gokey",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gokemon/twit-grits/issues"
+  },
+  "homepage": "https://github.com/gokemon/twit-grits#readme",
+  "dependencies": {
+    "express": "^4.15.2"
+  }
+}
