@@ -10,3 +10,7 @@ changes in your application and automatically restart
 your server for you.
 
 nodemon server.js
+
+got stuck right before Clean up our views
+Auth Controller got this done, and it didn't quite work
+http://scottksmith.com/blog/2015/05/26/twitatron-building-a-production-web-app-with-node-user-accounts/
