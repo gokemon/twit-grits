@@ -2,7 +2,6 @@
 A tracker for Twitter mentions, API and email. Little grains of yummy
 
 
-
 - **/twit-grits/**
 	-   **`config/`**         *// holds the configuration values*
 	-   **`controllers/`**    *// holds the controllers*
@@ -14,3 +13,14 @@ A tracker for Twitter mentions, API and email. Little grains of yummy
 	-   `server.js`       *// main application logic*
 
 Lets start coding. 
+
+**Feature Branches** are;
+1. Getting-Started
+1. Controller-Views
+1. User-Accounts
+2. Master
+
+You should be able to look at each branch and figure out what was added, or roll back to branch before.
+
+
+
